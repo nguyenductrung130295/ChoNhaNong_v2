@@ -1,0 +1,1623 @@
+{
+  "db_marketsfarmers" : {
+    "table_messendgers" : {
+      "-KnMns5WaqfEo30SSS_T" : {
+        "-KnN1SYlU6M7eejnL7cD" : {
+          "-KnTJ4BAfn-_N_06cilk" : {
+            "noidungtinnhan" : "kaka",
+            "seen_1" : true,
+            "seen_2" : false,
+            "sender" : 1,
+            "thoigiangui" : "Jun 25 2017 04:13:45"
+          }
+        },
+        "-KnNREWBxZ3QJOtAXCkT" : {
+          "-KnTIyBGN5B77prpAL3e" : {
+            "noidungtinnhan" : "Trinh ơi cho chi muon non bao hiem nhe",
+            "seen_1" : true,
+            "seen_2" : false,
+            "sender" : 1,
+            "thoigiangui" : "Jun 25 2017 04:13:16"
+          },
+          "-KnTU6LTtf24f22lXku3" : {
+            "noidungtinnhan" : "oki chị lấy đi",
+            "seen_1" : false,
+            "seen_2" : true,
+            "sender" : 2,
+            "thoigiangui" : "Jun 25 2017 05:02:05"
+          }
+        },
+        "-KnNXdpHmZWeiQip1bPX" : {
+          "-KnTIp9ynLXlV-XpDJSI" : {
+            "noidungtinnhan" : "ê chó",
+            "seen_1" : true,
+            "seen_2" : false,
+            "sender" : 1,
+            "thoigiangui" : "Jun 25 2017 04:12:39"
+          }
+        },
+        "-KnT9wh8aT_KEFBtk8hn" : {
+          "-KnTIjdoZbF2l10QL8fx" : {
+            "noidungtinnhan" : "Thảo lát về mua dum đá",
+            "seen_1" : true,
+            "seen_2" : false,
+            "sender" : 1,
+            "thoigiangui" : "Jun 25 2017 04:12:16"
+          }
+        },
+        "-KnTDXl53fEExGzREtx8" : {
+          "-KnTIUgR_q9kQx9gmf8g" : {
+            "noidungtinnhan" : "hi em",
+            "seen_1" : true,
+            "seen_2" : false,
+            "sender" : 1,
+            "thoigiangui" : "Jun 25 2017 04:11:11"
+          },
+          "-KnTIVthOc_WRh0aLHtb" : {
+            "noidungtinnhan" : "khỏe khong",
+            "seen_1" : true,
+            "seen_2" : false,
+            "sender" : 1,
+            "thoigiangui" : "Jun 25 2017 04:11:16"
+          }
+        }
+      },
+      "-KnMvcOekpsv7q-80QNM" : {
+        "-KnN1SYlU6M7eejnL7cD" : {
+          "-KnPk91cY90C0XhOOUi0" : {
+            "noidungtinnhan" : "hi, minh muon mua cay hai duong cua ban",
+            "seen_1" : false,
+            "seen_2" : true,
+            "sender" : 2,
+            "thoigiangui" : "Jun 24 2017 11:37:56"
+          }
+        }
+      },
+      "-KnN1SYlU6M7eejnL7cD" : {
+        "-KnMns5WaqfEo30SSS_T" : {
+          "-KnTJ4BQtVbrWlN1zpfF" : {
+            "noidungtinnhan" : "kaka",
+            "seen_1" : false,
+            "seen_2" : true,
+            "sender" : 2,
+            "thoigiangui" : "Jun 25 2017 04:13:45"
+          }
+        },
+        "-KnMvcOekpsv7q-80QNM" : {
+          "-KnPk91Jj7mqUyW-0-Rh" : {
+            "noidungtinnhan" : "hi, minh muon mua cay hai duong cua ban",
+            "seen_1" : true,
+            "seen_2" : false,
+            "sender" : 1,
+            "thoigiangui" : "Jun 24 2017 11:37:56"
+          }
+        }
+      },
+      "-KnNREWBxZ3QJOtAXCkT" : {
+        "-KnMns5WaqfEo30SSS_T" : {
+          "-KnTIyBXx1zbNjYsjySJ" : {
+            "noidungtinnhan" : "Trinh ơi cho chi muon non bao hiem nhe",
+            "seen_1" : false,
+            "seen_2" : true,
+            "sender" : 2,
+            "thoigiangui" : "Jun 25 2017 04:13:16"
+          },
+          "-KnTU6KCiYSITann3pNe" : {
+            "noidungtinnhan" : "oki chị lấy đi",
+            "seen_1" : true,
+            "seen_2" : false,
+            "sender" : 1,
+            "thoigiangui" : "Jun 25 2017 05:02:05"
+          }
+        }
+      },
+      "-KnNXdpHmZWeiQip1bPX" : {
+        "-KnMns5WaqfEo30SSS_T" : {
+          "-KnTIpAJQAI4WQFlyVmR" : {
+            "noidungtinnhan" : "ê chó",
+            "seen_1" : false,
+            "seen_2" : true,
+            "sender" : 2,
+            "thoigiangui" : "Jun 25 2017 04:12:39"
+          }
+        }
+      },
+      "-KnT9wh8aT_KEFBtk8hn" : {
+        "-KnMns5WaqfEo30SSS_T" : {
+          "-KnTIje-uW75qLmWreny" : {
+            "noidungtinnhan" : "Thảo lát về mua dum đá",
+            "seen_1" : false,
+            "seen_2" : true,
+            "sender" : 2,
+            "thoigiangui" : "Jun 25 2017 04:12:16"
+          }
+        }
+      },
+      "-KnTDXl53fEExGzREtx8" : {
+        "-KnMns5WaqfEo30SSS_T" : {
+          "-KnTIUgaiCQJIdQSaq2u" : {
+            "noidungtinnhan" : "hi em",
+            "seen_1" : false,
+            "seen_2" : true,
+            "sender" : 2,
+            "thoigiangui" : "Jun 25 2017 04:11:11"
+          },
+          "-KnTIVtxZubBejBSPc_2" : {
+            "noidungtinnhan" : "khỏe khong",
+            "seen_1" : false,
+            "seen_2" : true,
+            "sender" : 2,
+            "thoigiangui" : "Jun 25 2017 04:11:16"
+          }
+        }
+      },
+      "hello" : "Nguyễn Đức Trung"
+    },
+    "table_notif" : {
+      "-KnMns5WaqfEo30SSS_T" : [ null, {
+        "content" : "Chào Kiều Nữ Ngọc Dinh .Chúc mừng bạn đã đăng ký thành công!",
+        "idpost" : "-KnMns5WaqfEo30SSS_T",
+        "state" : "đã xem",
+        "time" : "Jun 24 2017 08:55:20",
+        "title" : "Đăng ký thành công.",
+        "type" : "system"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "7",
+        "state" : "đã xem",
+        "time" : "Jun 24 2017 00:25:10",
+        "title" : "Bài đăng Chuoi Laba ầ Lat",
+        "type" : "system"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "8",
+        "state" : "đã xem",
+        "time" : "Jun 24 2017 00:25:27",
+        "title" : "Bài đăng Ga Ta",
+        "type" : "system"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "9",
+        "state" : "đã xem",
+        "time" : "Jun 24 2017 01:00:38",
+        "title" : "Bài đăng Mít Thái",
+        "type" : "system"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "16",
+        "state" : "đã xem",
+        "time" : "Jun 24 2017 05:42:44",
+        "title" : "Bài đăng Quả Kim Anh Tử",
+        "type" : "system"
+      }, {
+        "content" : "đã theo dõi shop 'Famer Maket' của bạn",
+        "idpost" : "-KnOiPUKwM1E3srsETH6",
+        "state" : "đã xem",
+        "time" : "Jun 24 2017 11:32:12",
+        "title" : "Trần Mạnh Hưng",
+        "type" : "followshop"
+      }, {
+        "content" : " và các bài đăng trong cửa hàng của bạn đã bị xóa do vi phạm các điều lệ.",
+        "idpost" : "-KnOiQAOrzSGXP-wSPON",
+        "state" : "danhan",
+        "time" : "Jun 25 2017 04:33:07",
+        "title" : "Famer Maket",
+        "type" : "system"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "25",
+        "state" : "danhan",
+        "time" : "Jun 25 2017 04:55:14",
+        "title" : "Bài đăng Dua Long An",
+        "type" : "system"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "26",
+        "state" : "danhan",
+        "time" : "Jun 25 2017 04:55:25",
+        "title" : "Bài đăng Nho Xanh Ninh Thuan",
+        "type" : "system"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "27",
+        "state" : "danhan",
+        "time" : "Jun 25 2017 04:55:35",
+        "title" : "Bài đăng Ngoai Lang Ngot",
+        "type" : "system"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "28",
+        "state" : "danhan",
+        "time" : "Jun 25 2017 04:55:42",
+        "title" : "Bài đăng Mãng cầu",
+        "type" : "system"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "29",
+        "state" : "danhan",
+        "time" : "Jun 25 2017 04:55:55",
+        "title" : "Bài đăng Thanh long binh thuan",
+        "type" : "system"
+      }, {
+        "content" : "oki chị lấy đi",
+        "idpost" : "-KnNREWBxZ3QJOtAXCkT",
+        "state" : "đã xem",
+        "time" : "Jun 25 2017 05:02:05",
+        "title" : "Nguyen Thi My Trinh",
+        "type" : "message"
+      } ],
+      "-KnMvcOekpsv7q-80QNM" : [ null, {
+        "content" : "Chào Trần Mạnh Hưng .Chúc mừng bạn đã đăng ký thành công!",
+        "idpost" : "-KnMvcOekpsv7q-80QNM",
+        "state" : "danhan",
+        "time" : "Jun 23 2017 22:29:20",
+        "title" : "Đăng ký thành công.",
+        "type" : "system"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "1",
+        "state" : "danhan",
+        "time" : "Jun 24 2017 00:24:12",
+        "title" : "Bài đăng Cây Hải Đường",
+        "type" : "system"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "2",
+        "state" : "danhan",
+        "time" : "Jun 24 2017 00:24:26",
+        "title" : "Bài đăng Cây Sưa Đỏ(huynh đang, trắc thối)",
+        "type" : "system"
+      }, {
+        "content" : "đã theo dõi một bài đăng của bạn",
+        "idpost" : "2",
+        "state" : "danhan",
+        "time" : "Jun 24 2017 11:36:56",
+        "title" : "Ngô Kiến Binh",
+        "type" : "follow"
+      }, {
+        "content" : "hi, minh muon mua cay hai duong cua ban",
+        "idpost" : "-KnN1SYlU6M7eejnL7cD",
+        "state" : "dagui",
+        "time" : "Jun 24 2017 11:37:56",
+        "title" : "Ngô Kiến Binh",
+        "type" : "message"
+      }, {
+        "content" : "đã theo dõi một bài đăng của bạn",
+        "idpost" : "1",
+        "state" : "dagui",
+        "time" : "Jun 24 2017 11:38:57",
+        "title" : "Ngô Kiến Binh",
+        "type" : "follow"
+      }, {
+        "content" : "đã bình luận trong một bài đăng của bạn",
+        "idpost" : "1",
+        "state" : "dagui",
+        "time" : "Jun 24 2017 11:39:10",
+        "title" : "Ngô Kiến Binh",
+        "type" : "command"
+      } ],
+      "-KnN1SYlU6M7eejnL7cD" : [ null, {
+        "content" : "Chào Ngô Kiến Binh .Chúc mừng bạn đã đăng ký thành công!",
+        "idpost" : "-KnN1SYlU6M7eejnL7cD",
+        "state" : "đã xem",
+        "time" : "Jun 23 2017 22:59:03",
+        "title" : "Đăng ký thành công.",
+        "type" : "system"
+      }, {
+        "content" : " của bạn đã bị ban quản trị xóa.",
+        "idpost" : "6",
+        "state" : "đã xem",
+        "time" : "Jun 24 2017 00:24:52",
+        "title" : "Bài đăng Cây hoa mộc lan",
+        "type" : "system"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "5",
+        "state" : "đã xem",
+        "time" : "Jun 24 2017 00:25:03",
+        "title" : "Bài đăng Cây Tra Hoa Vang",
+        "type" : "system"
+      }, {
+        "content" : "kaka",
+        "idpost" : "-KnMns5WaqfEo30SSS_T",
+        "state" : "danhan",
+        "time" : "Jun 25 2017 04:13:45",
+        "title" : "Kiều Nữ Ngọc Dinh",
+        "type" : "message"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "31",
+        "state" : "dagui",
+        "time" : "Jun 25 2017 04:56:32",
+        "title" : "Bài đăng Bơ sap dak Lak",
+        "type" : "system"
+      } ],
+      "-KnNJ5PPlcUvm1LfNo5s" : [ null, {
+        "content" : "Chào Kiều Thanh Duy .Chúc mừng bạn đã đăng ký thành công!",
+        "idpost" : "-KnNJ5PPlcUvm1LfNo5s",
+        "state" : "danhan",
+        "time" : "Jun 24 2017 00:16:07",
+        "title" : "Đăng ký thành công.",
+        "type" : "system"
+      } ],
+      "-KnNREWBxZ3QJOtAXCkT" : [ null, {
+        "content" : "Chào Nguyen Thi My Trinh .Chúc mừng bạn đã đăng ký thành công!",
+        "idpost" : "-KnNREWBxZ3QJOtAXCkT",
+        "state" : "danhan",
+        "time" : "Jun 24 2017 00:51:41",
+        "title" : "Đăng ký thành công.",
+        "type" : "system"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "11",
+        "state" : "danhan",
+        "time" : "Jun 24 2017 01:00:28",
+        "title" : "Bài đăng Cá Nâu",
+        "type" : "system"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "10",
+        "state" : "danhan",
+        "time" : "Jun 24 2017 01:01:14",
+        "title" : "Bài đăng Dâu tây giốn NewZealand",
+        "type" : "system"
+      }, {
+        "content" : "đã theo dõi một bài đăng của bạn",
+        "idpost" : "12",
+        "state" : "danhan",
+        "time" : "Jun 24 2017 11:31:45",
+        "title" : "Trần Mạnh Hưng",
+        "type" : "follow"
+      }, {
+        "content" : "đã bình luận trong một bài đăng của bạn",
+        "idpost" : "10",
+        "state" : "danhan",
+        "time" : "Jun 24 2017 11:33:43",
+        "title" : "Trần Mạnh Hưng",
+        "type" : "command"
+      }, {
+        "content" : "đã theo dõi một bài đăng của bạn",
+        "idpost" : "12",
+        "state" : "danhan",
+        "time" : "Jun 24 2017 11:36:28",
+        "title" : "Ngô Kiến Binh",
+        "type" : "follow"
+      }, {
+        "content" : "Trinh ơi cho chi muon non bao hiem nhe",
+        "idpost" : "-KnMns5WaqfEo30SSS_T",
+        "state" : "đã xem",
+        "time" : "Jun 25 2017 04:13:16",
+        "title" : "Kiều Nữ Ngọc Dinh",
+        "type" : "message"
+      } ],
+      "-KnNXdpHmZWeiQip1bPX" : [ null, {
+        "content" : "Chào Nguyen Van Tinh .Chúc mừng bạn đã đăng ký thành công!",
+        "idpost" : "-KnNXdpHmZWeiQip1bPX",
+        "state" : "danhan",
+        "time" : "Jun 24 2017 01:19:43",
+        "title" : "Đăng ký thành công.",
+        "type" : "system"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "13",
+        "state" : "danhan",
+        "time" : "Jun 24 2017 01:28:47",
+        "title" : "Bài đăng Lá Cây Đinh Lăng",
+        "type" : "system"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "14",
+        "state" : "danhan",
+        "time" : "Jun 24 2017 01:29:09",
+        "title" : "Bài đăng Cây Ngô Đồng",
+        "type" : "system"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "15",
+        "state" : "danhan",
+        "time" : "Jun 24 2017 01:29:19",
+        "title" : "Bài đăng Hạt Đao",
+        "type" : "system"
+      }, {
+        "content" : "ê chó",
+        "idpost" : "-KnMns5WaqfEo30SSS_T",
+        "state" : "danhan",
+        "time" : "Jun 25 2017 04:12:39",
+        "title" : "Kiều Nữ Ngọc Dinh",
+        "type" : "message"
+      } ],
+      "-KnT9wh8aT_KEFBtk8hn" : [ null, {
+        "content" : "Chào Nguyen Thi Phuong Thao .Chúc mừng bạn đã đăng ký thành công!",
+        "idpost" : "-KnT9wh8aT_KEFBtk8hn",
+        "state" : "danhan",
+        "time" : "Jun 25 2017 03:33:51",
+        "title" : "Đăng ký thành công.",
+        "type" : "system"
+      }, {
+        "content" : "Thảo lát về mua dum đá",
+        "idpost" : "-KnMns5WaqfEo30SSS_T",
+        "state" : "danhan",
+        "time" : "Jun 25 2017 04:12:16",
+        "title" : "Kiều Nữ Ngọc Dinh",
+        "type" : "message"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "18",
+        "state" : "danhan",
+        "time" : "Jun 25 2017 04:52:51",
+        "title" : "Bài đăng Củ dền",
+        "type" : "system"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "19",
+        "state" : "dagui",
+        "time" : "Jun 25 2017 04:53:04",
+        "title" : "Bài đăng Củ Su Hao",
+        "type" : "system"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "20",
+        "state" : "dagui",
+        "time" : "Jun 25 2017 04:53:08",
+        "title" : "Bài đăng Cu Su",
+        "type" : "system"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "21",
+        "state" : "dagui",
+        "time" : "Jun 25 2017 04:53:16",
+        "title" : "Bài đăng Mớp tươi ngon",
+        "type" : "system"
+      } ],
+      "-KnTDXl53fEExGzREtx8" : [ null, {
+        "content" : "Chào Mai Thi Anh Nguyet .Chúc mừng bạn đã đăng ký thành công!",
+        "idpost" : "-KnTDXl53fEExGzREtx8",
+        "state" : "danhan",
+        "time" : "Jun 25 2017 03:49:33",
+        "title" : "Đăng ký thành công.",
+        "type" : "system"
+      }, {
+        "content" : "hi em",
+        "idpost" : "-KnMns5WaqfEo30SSS_T",
+        "state" : "dagui",
+        "time" : "Jun 25 2017 04:11:11",
+        "title" : "Kiều Nữ Ngọc Dinh",
+        "type" : "message"
+      }, {
+        "content" : "khỏe khong",
+        "idpost" : "-KnMns5WaqfEo30SSS_T",
+        "state" : "dagui",
+        "time" : "Jun 25 2017 04:11:16",
+        "title" : "Kiều Nữ Ngọc Dinh",
+        "type" : "message"
+      }, {
+        "content" : " của bạn đã được duyệt.",
+        "idpost" : "23",
+        "state" : "dagui",
+        "time" : "Jun 25 2017 04:54:54",
+        "title" : "Bài đăng Bi Do Dac Ruot",
+        "type" : "system"
+      } ],
+      "chào" : "Dinh Điên"
+    },
+    "table_posts" : {
+      "Bán" : {
+        "1" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          }, {
+            "content_cmt" : "hi",
+            "image_cmt" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Favatar_users%2Fuserdefault.png?alt=media&token=3d83631f-594c-4ace-ba78-a92b75fef82c",
+            "name_cmt" : "Ngô Kiến Binh",
+            "time" : "Jun 24 2017 11:39:10",
+            "uid_cmt" : "-KnN1SYlU6M7eejnL7cD"
+          } ],
+          "diachi_t" : "Vĩnh Phúc",
+          "diachi_txh" : "Tp.Vĩnh Yên",
+          "events" : {
+            "-KnPjcM88kl5imYUT6aZ" : {
+              "batdau" : "Jun 24 2017 11:30",
+              "ketthuc" : "Jun 30 2017 11:30",
+              "noidungsk" : "Nầ co cay hai duong sap toi ra bong, ban nao có nhu cau thi lien he",
+              "tensk" : "Cây Hải Đườn ra bông nở rộ",
+              "trangthaisk" : ""
+            }
+          },
+          "follow" : {
+            "-KnN1SYlU6M7eejnL7cD" : {
+              "name" : "Ngô Kiến Binh",
+              "time" : "Jun 24 2017 11:38:57"
+            },
+            "uid" : {
+              "maxid" : 1
+            }
+          },
+          "giaban" : "Thương lượng",
+          "idpost" : "idp2017-06-24T04550304Z",
+          "idpost_uid_own" : "idp2017-06-24T04550304Z_-KnMvcOekpsv7q-80QNM",
+          "idshop_own" : "0",
+          "images" : {
+            "-KnMzTh14Ra8w_olM6cD" : {
+              "idhinh" : "2017-06-24T04551173Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-24T04551161Z.jpg?alt=media&token=4518a4bd-1956-4449-8342-8b6022202f8c"
+            },
+            "-KnMzTi88kkg8kuo95Aw" : {
+              "idhinh" : "2017-06-24T04551173Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-24T04551172Z.jpg?alt=media&token=51d69e31-e61b-42ef-9ef8-c6a509da23f9"
+            },
+            "-KnMzTimCjbjqiTkzSqm" : {
+              "idhinh" : "2017-06-24T04551173Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-24T04551173Z.jpg?alt=media&token=2ba20643-b3ae-4c07-a24f-8460ba0e2cb7"
+            }
+          },
+          "loaisp" : "Hoa, cây cảnh",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "Sắp đến tết rồ ai co nhu cau mua cay hai duong ve choi thi lien he cho Hung nhe, gia re nhat, canh tranh nhat, van chuyen toan quoc..",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 23 2017 22:45:50",
+          "tieude" : "Cây Hải Đường",
+          "uid_own" : "-KnMvcOekpsv7q-80QNM"
+        },
+        "2" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Vĩnh Phúc",
+          "diachi_txh" : "Thon dong bua, xa tam quan, huyen tam dao",
+          "follow" : {
+            "-KnN1SYlU6M7eejnL7cD" : {
+              "name" : "Ngô Kiến Binh",
+              "time" : "Jun 24 2017 11:36:56"
+            },
+            "uid" : {
+              "maxid" : 1
+            }
+          },
+          "giaban" : "100.000vnd",
+          "idpost" : "idp2017-06-24T05115054Z",
+          "idpost_uid_own" : "idp2017-06-24T05115054Z_-KnMvcOekpsv7q-80QNM",
+          "idshop_own" : "0",
+          "images" : {
+            "-KnN-h54ceh6cPEbW95V" : {
+              "idhinh" : "2017-06-24T05115854Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-24T05115853Z.jpg?alt=media&token=11acbaf9-b045-4bc8-96ed-1b3f3f79e7cd"
+            }
+          },
+          "loaisp" : "Hoa, cây cảnh",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "Cao: 20-35cm\nCao: 60-75cm\nCao: 75-120cm\nCao: 2m tro len, duong kinh goc 1-1.8cm\nCao: 2m3 tro len duong kinh goc 1.8-2.5cm\n tat ca cay deu la 100% sua do, neu khong phai xin hoan tien 100% va chiu chi phi va cong cham soc.",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 23 2017 22:51:15",
+          "tieude" : "Cây Sưa Đỏ(huynh đang, trắc thối)",
+          "uid_own" : "-KnMvcOekpsv7q-80QNM"
+        },
+        "5" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "An Giang",
+          "diachi_txh" : "Ngo Thoi Nhiem",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "Thương lượng",
+          "idpost" : "idp2017-06-24T00245952Z",
+          "idpost_uid_own" : "idp2017-06-24T00245952Z_-KnN1SYlU6M7eejnL7cD",
+          "idshop_own" : "0",
+          "images" : {
+            "-KnN2K7Vm3-r5sSqP2gd" : {
+              "idhinh" : "2017-06-24T00246795Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-24T00246794Z.jpg?alt=media&token=375b5701-6a26-4a49-8e81-af594a98b6f5"
+            },
+            "-KnN2KABp38LdJlCXEgD" : {
+              "idhinh" : "2017-06-24T00246795Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-24T00246795Z.jpg?alt=media&token=048b46d2-41a8-44ba-9144-000183f4dc75"
+            }
+          },
+          "loaisp" : "Hoa, cây cảnh",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "Ban cay tra hoa vang, du kich thuoc tu cay giong den cay truong thanh, cam ket 100% tra hoa vang xin(chi co 7/31 loai tra hoa vang gia tri cao) va gia re nhat thi truong",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 23 2017 23:02:45",
+          "tieude" : "Cây Tra Hoa Vang",
+          "uid_own" : "-KnN1SYlU6M7eejnL7cD"
+        },
+        "7" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Tp.Hồ Chí Minh",
+          "diachi_txh" : "496 Nguyen Thi Minh Khai, Phuong 2 , quan 3",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "25.000/kg",
+          "idpost" : "idp2017-06-24T00958067Z",
+          "idpost_uid_own" : "idp2017-06-24T00958067Z_-KnMns5WaqfEo30SSS_T",
+          "idshop_own" : "0",
+          "images" : {
+            "-KnNHhumL0P5Re_XUpOe" : {
+              "idhinh" : "2017-06-24T00959587Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-24T00959587Z.jpg?alt=media&token=b71c9f6b-69d1-4069-a393-3090daa58f98"
+            },
+            "-KnNHhwNF3ZGU2mF2ulW" : {
+              "idhinh" : "2017-06-24T00959587Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-24T00959559Z.jpg?alt=media&token=7001df2a-8b0d-4f51-a9f4-0536b7c0583e"
+            }
+          },
+          "loaisp" : "Trái cây",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "Chuoi bao deo, ngot ngon nha ba con.",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 24 2017 00:09:58",
+          "tieude" : "Chuoi Laba ầ Lat",
+          "uid_own" : "-KnMns5WaqfEo30SSS_T"
+        },
+        "8" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Tp.Hồ Chí Minh",
+          "diachi_txh" : "496 Nguyen Thi Minh Khai",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "180.00/kg-ban nguyen con",
+          "idpost" : "idp2017-06-24T01403525Z",
+          "idpost_uid_own" : "idp2017-06-24T01403525Z_-KnMns5WaqfEo30SSS_T",
+          "idshop_own" : "0",
+          "images" : {
+            "-KnNIfYtuQGR-_iXnlHl" : {
+              "idhinh" : "2017-06-24T01406453Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-24T01406453Z.jpg?alt=media&token=39d40f65-bced-492d-a2d9-e857109c07bc"
+            }
+          },
+          "loaisp" : "Gia súc, gia cầm",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "+Ga ta sach nuoi huu co\n+Chi cho an lua, cam gao, rau cay\n+Ga tha vuon, bao an ngot va dai\n+con khoang 1.5-2kg/con da man thit",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 24 2017 00:14:03",
+          "tieude" : "Ga Ta",
+          "uid_own" : "-KnMns5WaqfEo30SSS_T"
+        },
+        "9" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Tp.Hồ Chí Minh",
+          "diachi_txh" : "496 Nguyên Thị Minh Khai, qận 3",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "70k/kg",
+          "idpost" : "idp2017-06-24T03725664Z",
+          "idpost_uid_own" : "idp2017-06-24T03725664Z_-KnMns5WaqfEo30SSS_T",
+          "idshop_own" : "0",
+          "images" : {
+            "-KnNO1D9NMaX0_nyJI6u" : {
+              "idhinh" : "2017-06-24T03736946Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-24T03736946Z.jpg?alt=media&token=ae52b915-180e-447c-9128-458d722580e4"
+            }
+          },
+          "loaisp" : "Trái cây",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 24 2017 00:37:25",
+          "tieude" : "Mít Thái",
+          "uid_own" : "-KnMns5WaqfEo30SSS_T"
+        },
+        "10" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          }, {
+            "content_cmt" : "ship 1 ký cho Hưng ở 484 Lê Vă Việt nhé bạ, ",
+            "image_cmt" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Favatar_users%2F2017-06-24T05259886Z.jpg?alt=media&token=56a61f3d-8e41-4b32-af6e-c0fd271668c1",
+            "name_cmt" : "Trần Mạnh Hưng",
+            "time" : "Jun 24 2017 11:33:43",
+            "uid_cmt" : "-KnMvcOekpsv7q-80QNM"
+          } ],
+          "diachi_t" : "Tp.Hồ Chí Minh",
+          "diachi_txh" : "484 Le van Viet, phuong Tang Nhon Phu A, aun 9",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "165.000/hop 500gram",
+          "idpost" : "idp2017-06-24T05548455Z",
+          "idpost_uid_own" : "idp2017-06-24T05548455Z_-KnNREWBxZ3QJOtAXCkT",
+          "idshop_own" : "0",
+          "images" : {
+            "-KnNSCFrwZWkHNgpm_-X" : {
+              "idhinh" : "2017-06-24T05549787Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-24T05549787Z.jpg?alt=media&token=78559a9f-93d9-45d7-b8c5-233bb3dbd36b"
+            }
+          },
+          "loaisp" : "Trái cây",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "Dau tay chua chua ngot ngot, hang trong nha kinh, tieu chuan Vietgap, rat han che su dung thuoc vi trong bang da perlite nui lua, han che benh.",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 24 2017 00:55:48",
+          "tieude" : "Dâu tây giốn NewZealand",
+          "uid_own" : "-KnNREWBxZ3QJOtAXCkT"
+        },
+        "11" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Tp.Hồ Chí Minh",
+          "diachi_txh" : "484 Lê Vă Việt, phườn Tăng Nhơn Ph´A, qậ9",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "120.000/kg",
+          "idpost" : "idp2017-06-24T05725066Z",
+          "idpost_uid_own" : "idp2017-06-24T05725066Z_-KnNREWBxZ3QJOtAXCkT",
+          "idshop_own" : "0",
+          "images" : {
+            "-KnNSZYQVaxRB71n0g9J" : {
+              "idhinh" : "2017-06-24T05726379Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-24T05726379Z.jpg?alt=media&token=f8dff98c-fa3c-49dd-a646-1a4197ad576c"
+            }
+          },
+          "loaisp" : "Thủy, hải sản",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "Cá nâu ngoai cửa biển, tươ ngon roi rói, nhin la mê. ă la thích",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 24 2017 00:57:25",
+          "tieude" : "Cá Nâu",
+          "uid_own" : "-KnNREWBxZ3QJOtAXCkT"
+        },
+        "12" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Tp.Hồ Chí Minh",
+          "diachi_txh" : "484 le van viet, phuong tang nhon phu a, quan 9",
+          "follow" : {
+            "-KnMvcOekpsv7q-80QNM" : {
+              "name" : "Trần Mạnh Hưng",
+              "time" : "Jun 24 2017 11:31:45"
+            },
+            "-KnN1SYlU6M7eejnL7cD" : {
+              "name" : "Ngô Kiến Binh",
+              "time" : "Jun 24 2017 11:36:28"
+            },
+            "uid" : {
+              "maxid" : 2
+            }
+          },
+          "giaban" : "80.000/kg",
+          "idpost" : "idp2017-06-24T05909248Z",
+          "idpost_uid_own" : "idp2017-06-24T05909248Z_-KnNREWBxZ3QJOtAXCkT",
+          "idshop_own" : "0",
+          "images" : {
+            "-KnNSyH2S-AyoygC_Ik9" : {
+              "idhinh" : "2017-06-24T05911443Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-24T05911443Z.jpg?alt=media&token=8aab58c8-e18d-4a38-b397-f261fda24173"
+            }
+          },
+          "loaisp" : "Trái cây",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "Cam sanh mong vo it thuoc tru sau, moi ve dot nua nay cac anh chi, queo lua",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 24 2017 00:59:09",
+          "tieude" : "Cam sanh mong vo",
+          "uid_own" : "-KnNREWBxZ3QJOtAXCkT"
+        },
+        "13" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Tp.Hồ Chí Minh",
+          "diachi_txh" : "197 Le loi, phuong 5 quan 5",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "120.000/kg",
+          "idpost" : "idp2017-06-24T02328955Z",
+          "idpost_uid_own" : "idp2017-06-24T02328955Z_-KnNXdpHmZWeiQip1bPX",
+          "idshop_own" : "0",
+          "images" : {
+            "-KnNYXYL-7uub0KwO4ZA" : {
+              "idhinh" : "2017-06-24T02329893Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-24T02329893Z.jpg?alt=media&token=5c3022b5-501f-4196-b192-c03058a0e21c"
+            }
+          },
+          "loaisp" : "Cây Thuốc",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "la cay dinh lang giup chua benh co giat cho tre nho, va la phuong thuoc quy cho moi gia dinh.",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 24 2017 01:23:28",
+          "tieude" : "Lá Cây Đinh Lăng",
+          "uid_own" : "-KnNXdpHmZWeiQip1bPX"
+        },
+        "14" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Bắc Giang",
+          "diachi_txh" : "Thon Miu Linh, Thanh Lan, Hoai An",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "200.000/kg",
+          "idpost" : "idp2017-06-24T02552164Z",
+          "idpost_uid_own" : "idp2017-06-24T02552164Z_-KnNXdpHmZWeiQip1bPX",
+          "idshop_own" : "0",
+          "images" : {
+            "-KnNZ7C8_P-XrGNVExU2" : {
+              "idhinh" : "2017-06-24T02600509Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-24T02600509Z.jpg?alt=media&token=12f19d88-d824-4a76-9053-2f39c8e36d43"
+            }
+          },
+          "loaisp" : "Cây Thuốc",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "Goc phinh to nhu cai lo, xu xi, map, phan nhanh it",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 24 2017 01:25:52",
+          "tieude" : "Cây Ngô Đồng",
+          "uid_own" : "-KnNXdpHmZWeiQip1bPX"
+        },
+        "15" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Tp.Hồ Chí Minh",
+          "diachi_txh" : "45 Phan Chau Trinh, phuong 2 quan 5",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "300.000/kg",
+          "idpost" : "idp2017-06-24T02804490Z",
+          "idpost_uid_own" : "idp2017-06-24T02804490Z_-KnNXdpHmZWeiQip1bPX",
+          "idshop_own" : "0",
+          "images" : {
+            "-KnNZaSrlLmb8WCYhH6g" : {
+              "idhinh" : "2017-06-24T02806220Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-24T02806220Z.jpg?alt=media&token=4a2aac70-d2ac-41e0-b381-4772f751cda3"
+            },
+            "-KnNZa_GaNP0iLatokMS" : {
+              "idhinh" : "2017-06-24T02806220Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-24T02806220Z.jpg?alt=media&token=4a2aac70-d2ac-41e0-b381-4772f751cda3"
+            }
+          },
+          "loaisp" : "Cây Thuốc",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "Hat dao chua bai liet, tru u huyet, suyen ho,.... ",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 24 2017 01:28:04",
+          "tieude" : "Hạt Đao",
+          "uid_own" : "-KnNXdpHmZWeiQip1bPX"
+        },
+        "16" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Bạc Liêu",
+          "diachi_txh" : "56 Chau Thanh",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "270.000/kg",
+          "idpost" : "idp2017-06-24T03224825Z",
+          "idpost_uid_own" : "idp2017-06-24T03224825Z_-KnMns5WaqfEo30SSS_T",
+          "idshop_own" : "0",
+          "images" : {
+            "-KnN_dX7AuhISOHLCdX5" : {
+              "idhinh" : "2017-06-24T03242840Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-24T03242840Z.jpg?alt=media&token=5d927269-6393-42c7-a744-67e6e86c37db"
+            },
+            "-KnN_dvKjCzv1aSsywWA" : {
+              "idhinh" : "2017-06-24T03242840Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-24T03242839Z.jpg?alt=media&token=584cf787-5d8a-48b3-b3b3-d9ae549e1d1e"
+            },
+            "-KnOi-1jSBkn1RkRc9b6" : {
+              "idhinh" : "2017-06-24T14839635Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-24T14839635Z.jpg?alt=media&token=49f5ee54-6a59-4614-8b98-20f146f706be"
+            }
+          },
+          "loaisp" : "Cây Thuốc",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "giup chua suy nhuoc, tieu son, dai dam o tre nho, ai can lien he minh",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 24 2017 01:32:24",
+          "tieude" : "Quả Kim Anh Tử",
+          "uid_own" : "-KnMns5WaqfEo30SSS_T"
+        },
+        "17" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Ninh Thuận",
+          "diachi_txh" : "thon van lam 4 xa phuoc nam huyen thuan nam",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "300tr",
+          "idpost" : "idp2017-06-24T14838696Z",
+          "idpost_uid_own" : "idp2017-06-24T14838696Z_-KnMns5WaqfEo30SSS_T",
+          "idshop_own" : "0",
+          "loaisp" : "Hoa, cây cảnh",
+          "loaivipham" : "",
+          "muahayban" : "Bán",
+          "noidung" : "nha can ban cay hoa su ai quan tam i box hoac goi truc tiep\n",
+          "statecheck" : "Chưa duyệt",
+          "thoigiandang" : "Jun 24 2017 17:48:38",
+          "tieude" : "cây hoa sứ",
+          "uid_own" : "-KnMns5WaqfEo30SSS_T"
+        },
+        "18" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Bắc Giang",
+          "diachi_txh" : "Van Thanh, Van Ninh",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "7.000/kg",
+          "idpost" : "idp2017-06-25T04255638Z",
+          "idpost_uid_own" : "idp2017-06-25T04255638Z_-KnT9wh8aT_KEFBtk8hn",
+          "idshop_own" : "-KnTA3esXVVEyccuTWUK",
+          "images" : {
+            "-KnTC2ufIy52EYX0cwLK" : {
+              "idhinh" : "2017-06-25T04256538Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-25T04256538Z.jpg?alt=media&token=474dc6b6-d766-4f2d-8c4a-fdc0cfffb726"
+            }
+          },
+          "loaisp" : "Rau củ",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "Cu den gan thu hoach, dam bao chat luong",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 25 2017 03:42:55",
+          "tieude" : "Củ dền",
+          "uid_own" : "-KnT9wh8aT_KEFBtk8hn"
+        },
+        "19" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Lâm Đồng",
+          "diachi_txh" : "Tp.Da Lat",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "10.000/kg",
+          "idpost" : "idp2017-06-25T04403756Z",
+          "idpost_uid_own" : "idp2017-06-25T04403756Z_-KnT9wh8aT_KEFBtk8hn",
+          "idshop_own" : "-KnTA3esXVVEyccuTWUK",
+          "images" : {
+            "-KnTCIbrHvtdIOH-g_Ww" : {
+              "idhinh" : "2017-06-25T04404941Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-25T04404941Z.jpg?alt=media&token=06569bdb-070e-40fc-a1f7-de2d0014689d"
+            }
+          },
+          "loaisp" : "Rau củ",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "Cu su hao trong theo tieu chuan vietgap",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 25 2017 03:44:03",
+          "tieude" : "Củ Su Hao",
+          "uid_own" : "-KnT9wh8aT_KEFBtk8hn"
+        },
+        "20" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Lâm Đồng",
+          "diachi_txh" : "TP. Da Lat",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "10.000/kg",
+          "idpost" : "idp2017-06-25T04522846Z",
+          "idpost_uid_own" : "idp2017-06-25T04522846Z_-KnT9wh8aT_KEFBtk8hn",
+          "idshop_own" : "-KnTA3esXVVEyccuTWUK",
+          "images" : {
+            "-KnTCaunKKgUUS3NtnnP" : {
+              "idhinh" : "2017-06-25T04524389Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-25T04524389Z.jpg?alt=media&token=6867b1e5-a04e-43a6-92d1-3e96ffad0c97"
+            }
+          },
+          "loaisp" : "Rau củ",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "Cu su dam bao chat luong",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 25 2017 03:45:22",
+          "tieude" : "Cu Su",
+          "uid_own" : "-KnT9wh8aT_KEFBtk8hn"
+        },
+        "21" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Ninh Thuận",
+          "diachi_txh" : "Phan Rang",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "5000/kg",
+          "idpost" : "idp2017-06-25T04643852Z",
+          "idpost_uid_own" : "idp2017-06-25T04643852Z_-KnT9wh8aT_KEFBtk8hn",
+          "idshop_own" : "-KnTA3esXVVEyccuTWUK",
+          "images" : {
+            "-KnTCuupRefYGlq2PYhQ" : {
+              "idhinh" : "2017-06-25T04646223Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-25T04646223Z.jpg?alt=media&token=04af4552-c9d6-41d3-a5b6-119356a52127"
+            }
+          },
+          "loaisp" : "Rau củ",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "Mớp nh trồng đảm bảo sạch khoongphun thuốc trừ sau",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 25 2017 03:46:43",
+          "tieude" : "Mớp tươi ngon",
+          "uid_own" : "-KnT9wh8aT_KEFBtk8hn"
+        },
+        "23" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Tp.Hồ Chí Minh",
+          "diachi_txh" : "123 To Hien Thanh",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "17.000/kg",
+          "idpost" : "idp2017-06-25T05155503Z",
+          "idpost_uid_own" : "idp2017-06-25T05155503Z_-KnTDXl53fEExGzREtx8",
+          "idshop_own" : "0",
+          "images" : {
+            "-KnTE67fFrsKCwMVEfKM" : {
+              "idhinh" : "2017-06-25T05157806Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-25T05157806Z.jpg?alt=media&token=8d365dbe-da33-46c7-9717-0d4e0f1d508b"
+            }
+          },
+          "loaisp" : "Rau củ",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "Bi do dac ruot, dam bao ngot, dai, tieu chuan vietgap",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 25 2017 03:51:55",
+          "tieude" : "Bi Do Dac Ruot",
+          "uid_own" : "-KnTDXl53fEExGzREtx8"
+        },
+        "25" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Tp.Hồ Chí Minh",
+          "diachi_txh" : "484 le Van Viet",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "20.000/kg",
+          "idpost" : "idp2017-06-25T02053503Z",
+          "idpost_uid_own" : "idp2017-06-25T02053503Z_-KnMns5WaqfEo30SSS_T",
+          "idshop_own" : "0",
+          "images" : {
+            "-KnTKkOoJ7-7_-01fY6T" : {
+              "idhinh" : "2017-06-25T02055441Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-25T02055441Z.jpg?alt=media&token=278b7648-918e-408b-9add-0ec33f281373"
+            }
+          },
+          "loaisp" : "Rau củ",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "Dua khong hoa chat",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 25 2017 04:20:53",
+          "tieude" : "Dua Long An",
+          "uid_own" : "-KnMns5WaqfEo30SSS_T"
+        },
+        "26" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Ninh Thuận",
+          "diachi_txh" : "Thuan Nam",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "40.000/kg",
+          "idpost" : "idp2017-06-25T02151020Z",
+          "idpost_uid_own" : "idp2017-06-25T02151020Z_-KnMns5WaqfEo30SSS_T",
+          "idshop_own" : "0",
+          "images" : {
+            "-KnTKwp4DTII_JBxDuDg" : {
+              "idhinh" : "2017-06-25T02152125Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-25T02152125Z.jpg?alt=media&token=4a3dcd6f-31e5-4fae-81f8-24041177f49d"
+            }
+          },
+          "loaisp" : "Trái cây",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "Nho xanh nha trong, dam bao ngot nhat nhi mien trung",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 25 2017 04:21:51",
+          "tieude" : "Nho Xanh Ninh Thuan",
+          "uid_own" : "-KnMns5WaqfEo30SSS_T"
+        },
+        "27" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Cần Thơ",
+          "diachi_txh" : "Thon Phuoc Hai",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "5.000/kg",
+          "idpost" : "idp2017-06-25T03137894Z",
+          "idpost_uid_own" : "idp2017-06-25T03137894Z_-KnMns5WaqfEo30SSS_T",
+          "idshop_own" : "0",
+          "images" : {
+            "-KnTNAwtMvKMx-kRPpy0" : {
+              "idhinh" : "2017-06-25T03138991Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-25T03138991Z.jpg?alt=media&token=c6e7f5c4-9ada-444f-8304-f6ac11bef35e"
+            }
+          },
+          "loaisp" : "Rau củ",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "Khoai lang ngot lanh tuoi mat đayy",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 25 2017 04:31:37",
+          "tieude" : "Ngoai Lang Ngot",
+          "uid_own" : "-KnMns5WaqfEo30SSS_T"
+        },
+        "28" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Tp.Hồ Chí Minh",
+          "diachi_txh" : "498 le van viet",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "23.000/kg",
+          "idpost" : "idp2017-06-25T03956274Z",
+          "idpost_uid_own" : "idp2017-06-25T03956274Z_-KnMns5WaqfEo30SSS_T",
+          "idshop_own" : "-KnOiPUKwM1E3srsETH6",
+          "images" : {
+            "-KnTP68lW2oEq7HJz_yV" : {
+              "idhinh" : "2017-06-25T04002674Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-25T04002674Z.jpg?alt=media&token=3e0e5bea-bab5-45cd-830a-a2620f0afe0d"
+            }
+          },
+          "loaisp" : "Trái cây",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "mang cau nhieu cơm",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 25 2017 04:39:56",
+          "tieude" : "Mãng cầu",
+          "uid_own" : "-KnMns5WaqfEo30SSS_T"
+        },
+        "29" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Tp.Hồ Chí Minh",
+          "diachi_txh" : "45 Nguyen Tat Thanh",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "4000/kg",
+          "idpost" : "idp2017-06-25T04147170Z",
+          "idpost_uid_own" : "idp2017-06-25T04147170Z_-KnMns5WaqfEo30SSS_T",
+          "idshop_own" : "-KnOiPUKwM1E3srsETH6",
+          "images" : {
+            "-KnTPUmK4TnGpQR3u0dk" : {
+              "idhinh" : "2017-06-25T04149632Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-25T04149632Z.jpg?alt=media&token=dc20b6dd-1e27-442b-9f60-2bd2279265fe"
+            }
+          },
+          "loaisp" : "Trái cây",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "Thanh long ruot do, giau duong chat",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 25 2017 04:41:47",
+          "tieude" : "Thanh long binh thuan",
+          "uid_own" : "-KnMns5WaqfEo30SSS_T"
+        },
+        "30" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Tp.Hồ Chí Minh",
+          "diachi_txh" : "234 Le Lai",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "30.000/kg",
+          "idpost" : "idp2017-06-25T04739160Z",
+          "idpost_uid_own" : "idp2017-06-25T04739160Z_-KnN1SYlU6M7eejnL7cD",
+          "idshop_own" : "0",
+          "loaisp" : "Trái cây",
+          "loaivipham" : "",
+          "muahayban" : "Bán",
+          "noidung" : "Bo sáp dẻo",
+          "statecheck" : "Chưa duyệt",
+          "thoigiandang" : "Jun 25 2017 04:47:39",
+          "tieude" : "Bơ sap dak Lak",
+          "uid_own" : "-KnN1SYlU6M7eejnL7cD"
+        },
+        "31" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Tp.Hồ Chí Minh",
+          "diachi_txh" : "234 Le Lai",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "30.000/kg",
+          "idpost" : "idp2017-06-25T04749986Z",
+          "idpost_uid_own" : "idp2017-06-25T04749986Z_-KnN1SYlU6M7eejnL7cD",
+          "idshop_own" : "0",
+          "images" : {
+            "-KnTQvPRpciUM790hcT_" : {
+              "idhinh" : "2017-06-25T04749977Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-25T04749977Z.jpg?alt=media&token=d9ab8af0-5a3d-4585-9de0-dcd1c0fddddf"
+            }
+          },
+          "loaisp" : "Trái cây",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Bán",
+          "noidung" : "Bo sáp dẻo",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 25 2017 04:47:49",
+          "tieude" : "Bơ sap dak Lak",
+          "uid_own" : "-KnN1SYlU6M7eejnL7cD"
+        },
+        "KLTN" : "CNTT-K13-2016-2017, Đức Trung, Kiều Dinh, ThS.NTT-Văn"
+      },
+      "Mua" : {
+        "3" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Vĩnh Phúc",
+          "diachi_txh" : "Tp.Vĩnh Phúc",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "",
+          "idpost" : "idp2017-06-24T05554093Z",
+          "idpost_uid_own" : "idp2017-06-24T05554093Z_-KnMvcOekpsv7q-80QNM",
+          "idshop_own" : "0",
+          "images" : {
+            "-KnN0kT_d6EZypU48Ben" : {
+              "idhinh" : "2017-06-24T05555174Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-24T05555173Z.jpg?alt=media&token=bea6b45b-02cb-48da-8a50-601697329b35"
+            }
+          },
+          "loaisp" : "Hoa, cây cảnh",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Mua",
+          "noidung" : "Can mua cay dao tien dk goc 30cm tro len do cah goc 50cm ai có bao gia roi lien he minh",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 23 2017 22:55:54",
+          "tieude" : "Cây Đao Tiên",
+          "uid_own" : "-KnMvcOekpsv7q-80QNM"
+        },
+        "22" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Ninh Thuận",
+          "diachi_txh" : "Van Lam Phuoc Nam Thuan Nam Ninh Thuan",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "12000/kg",
+          "idpost" : "idp2017-06-25T04847670Z",
+          "idpost_uid_own" : "idp2017-06-25T04847670Z_-KnT9wh8aT_KEFBtk8hn",
+          "idshop_own" : "0",
+          "images" : {
+            "-KnTDOwyTe1vkoCnglZO" : {
+              "idhinh" : "2017-06-25T04848448Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-25T04848448Z.jpg?alt=media&token=523b551a-6df2-48f2-be02-c9c045fbddd6"
+            }
+          },
+          "loaisp" : "Rau củ",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Mua",
+          "noidung" : "Can mua 1 ta ca chua khong hat, ai co san pham lien he minh",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 25 2017 03:48:47",
+          "tieude" : "Ca Chua Khong Hta",
+          "uid_own" : "-KnT9wh8aT_KEFBtk8hn"
+        },
+        "24" : {
+          "command" : [ {
+            "defaul" : "honggnuhnhuynhneyugn"
+          } ],
+          "diachi_t" : "Tp.Hồ Chí Minh",
+          "diachi_txh" : "123 Le loi",
+          "follow" : {
+            "uid" : {
+              "maxid" : 0
+            }
+          },
+          "giaban" : "20.000/kg",
+          "idpost" : "idp2017-06-25T05258632Z",
+          "idpost_uid_own" : "idp2017-06-25T05258632Z_-KnTDXl53fEExGzREtx8",
+          "idshop_own" : "0",
+          "images" : {
+            "-KnTELA1YDrCMKd30v8s" : {
+              "idhinh" : "2017-06-25T05259463Z",
+              "linkpost" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fphoto_posts%2F2017-06-25T05259463Z.jpg?alt=media&token=a0aa8d09-25db-43d7-9f91-301c087c55c9"
+            }
+          },
+          "loaisp" : "Rau củ",
+          "loaivipham" : "Đồi trụy",
+          "muahayban" : "Mua",
+          "noidung" : "Can Mua Ca Rot Da Lat",
+          "statecheck" : "Bình thường",
+          "thoigiandang" : "Jun 25 2017 03:52:58",
+          "tieude" : "Ca Rot Da Lat",
+          "uid_own" : "-KnTDXl53fEExGzREtx8"
+        },
+        "Công_Nghệ" : "React-Native,Firebase"
+      },
+      "maxid" : {
+        "maxid" : 31
+      },
+      "null" : {
+        "null" : {
+          "loaivipham" : "Đồi trụy",
+          "statecheck" : "Bình thường"
+        }
+      }
+    },
+    "table_shops" : {
+      "-KnOiPUKwM1E3srsETH6" : {
+        "anhbiashop" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fbanner_shops%2F2017-06-25T03649585Z.jpg?alt=media&token=e15e1386-dec9-41ba-b192-c032ae6ffe86",
+        "diachi_t" : "Hồ Chí Minh",
+        "diachi_txh" : "",
+        "follow" : {
+          "-KnMvcOekpsv7q-80QNM" : {
+            "name" : "Kiều Nữ Ngọc Dinh",
+            "time" : "Jun 24 2017 11:32:12"
+          },
+          "uid" : {
+            "maxid" : 1
+          }
+        },
+        "gioithieu" : "",
+        "loaisp" : "Trái cây",
+        "loaivipham" : "",
+        "logoshop" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Flogo_shops%2F2017-06-25T03429719Z.jpg?alt=media&token=060b7cce-7811-40b6-b190-46b926a0efdc",
+        "score_star" : "0",
+        "sdtcuahang" : "0977098052",
+        "state" : "Bình thường",
+        "tencuahang" : "Famer Maket",
+        "user_own" : "-KnMns5WaqfEo30SSS_T"
+      },
+      "-KnTA3esXVVEyccuTWUK" : {
+        "anhbiashop" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fbanner_shops%2F2017-06-25T03516524Z.jpg?alt=media&token=1f648ca8-9533-4029-b198-c0d3a587714c",
+        "diachi_t" : "Hồ Chí Minh",
+        "diachi_txh" : "",
+        "follow" : {
+          "uid" : {
+            "maxid" : 0
+          }
+        },
+        "gioithieu" : "",
+        "loaisp" : "Rau củ",
+        "loaivipham" : "",
+        "logoshop" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Flogo_shops%2F2017-06-25T03459973Z.jpg?alt=media&token=27e13f95-0a5f-4ba5-a69f-640a44e21b72",
+        "score_star" : "0",
+        "sdtcuahang" : "0946786789",
+        "state" : "Bình thường",
+        "tencuahang" : "Cua Hang Rau Cu",
+        "user_own" : "-KnT9wh8aT_KEFBtk8hn"
+      },
+      "-KnTPoelvA2aoWTMlYdk" : {
+        "anhbiashop" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fbanner_shops%2Fbannerdefaultshop.png?alt=media&token=c08ad408-defc-4c15-9130-2d30ffd26ddb",
+        "diachi_t" : "Hồ Chí Minh",
+        "diachi_txh" : "",
+        "follow" : {
+          "uid" : {
+            "maxid" : 0
+          }
+        },
+        "gioithieu" : "",
+        "loaisp" : "Trái cây",
+        "loaivipham" : "",
+        "logoshop" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Flogo_shops%2F2017-06-25T04347383Z.jpg?alt=media&token=52433cea-ee2d-4642-bbad-e3760186d56a",
+        "score_star" : "0",
+        "sdtcuahang" : "0977098052",
+        "state" : "Bình thường",
+        "tencuahang" : "Cửa hang ban ga",
+        "user_own" : "-KnMns5WaqfEo30SSS_T"
+      },
+      "linkFacebook" : "https://www.facebook.com/profile.php?id=100009199380985"
+    },
+    "table_users" : {
+      "-KnMns5WaqfEo30SSS_T" : {
+        "anhbia" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fbanner_users%2Fthiennhiendep201633.jpg?alt=media&token=43daf4e8-8d4c-4203-a355-5b121223095c",
+        "anhdaidien" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Favatar_users%2F2017-06-24T02239687Z.jpg?alt=media&token=466a5d73-9f80-4da3-8ce8-e5b04652386c",
+        "diachi_t" : "Tp.Hồ Chí Minh",
+        "diachi_txh" : "484 Le Loi, Đông Hoa, quan 5",
+        "email" : "",
+        "hovaten" : "Kiều Nữ Ngọc Dinh",
+        "loaivipham" : "",
+        "matkhau" : "0977098052",
+        "sdt" : "0977098052",
+        "sdt_mk" : "09770980520977098052",
+        "state" : "Bình thường",
+        "type" : "user"
+      },
+      "-KnMvcOekpsv7q-80QNM" : {
+        "anhbia" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fbanner_users%2Fthiennhiendep201633.jpg?alt=media&token=43daf4e8-8d4c-4203-a355-5b121223095c",
+        "anhdaidien" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Favatar_users%2F2017-06-24T05259886Z.jpg?alt=media&token=56a61f3d-8e41-4b32-af6e-c0fd271668c1",
+        "diachi_t" : "",
+        "diachi_txh" : "",
+        "email" : "",
+        "hovaten" : "Trần Mạnh Hưng",
+        "loaivipham" : "",
+        "matkhau" : "123456789",
+        "sdt" : "01645677564",
+        "sdt_mk" : "01645677564123456789",
+        "state" : "Bình thường",
+        "type" : "user"
+      },
+      "-KnN1SYlU6M7eejnL7cD" : {
+        "anhbia" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fbanner_users%2Fthiennhiendep201633.jpg?alt=media&token=43daf4e8-8d4c-4203-a355-5b121223095c",
+        "anhdaidien" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Favatar_users%2F2017-06-25T04624018Z.jpg?alt=media&token=680b8da4-9269-428b-8309-5267a4a727cb",
+        "diachi_t" : "",
+        "diachi_txh" : "",
+        "email" : "",
+        "hovaten" : "Ngô Kiến Binh",
+        "loaivipham" : "",
+        "matkhau" : "123456789",
+        "sdt" : "0974296889",
+        "sdt_mk" : "0974296889123456789",
+        "state" : "Bình thường",
+        "type" : "user"
+      },
+      "-KnNJ5PPlcUvm1LfNo5s" : {
+        "anhbia" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fbanner_users%2Fthiennhiendep201633.jpg?alt=media&token=43daf4e8-8d4c-4203-a355-5b121223095c",
+        "anhdaidien" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Favatar_users%2Fuserdefault.png?alt=media&token=3d83631f-594c-4ace-ba78-a92b75fef82c",
+        "diachi_t" : "",
+        "diachi_txh" : "",
+        "email" : "",
+        "hovaten" : "Kiều Thanh Duy",
+        "loaivipham" : "",
+        "matkhau" : "123456789",
+        "sdt" : "01642111936",
+        "sdt_mk" : "01642111936123456789",
+        "state" : "Bình thường",
+        "type" : "admin"
+      },
+      "-KnNREWBxZ3QJOtAXCkT" : {
+        "anhbia" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fbanner_users%2Fthiennhiendep201633.jpg?alt=media&token=43daf4e8-8d4c-4203-a355-5b121223095c",
+        "anhdaidien" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Favatar_users%2F2017-06-25T04909850Z.jpg?alt=media&token=61185c24-b5de-493a-9351-542f2b5cc250",
+        "diachi_t" : "",
+        "diachi_txh" : "",
+        "email" : "",
+        "hovaten" : "Nguyen Thi My Trinh",
+        "loaivipham" : "",
+        "matkhau" : "123456789",
+        "sdt" : "0982972428",
+        "sdt_mk" : "0982972428123456789",
+        "state" : "Bình thường",
+        "type" : "user"
+      },
+      "-KnNXdpHmZWeiQip1bPX" : {
+        "anhbia" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fbanner_users%2Fthiennhiendep201633.jpg?alt=media&token=43daf4e8-8d4c-4203-a355-5b121223095c",
+        "anhdaidien" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Favatar_users%2F2017-06-25T05025451Z.jpg?alt=media&token=9020393b-f38f-475f-a5d6-3cd16f5cf33d",
+        "diachi_t" : "",
+        "diachi_txh" : "",
+        "email" : "",
+        "hovaten" : "Nguyen Van Tinh",
+        "loaivipham" : "",
+        "matkhau" : "123456789",
+        "sdt" : "0963225002",
+        "sdt_mk" : "0963225002123456789",
+        "state" : "Bình thường",
+        "type" : "user"
+      },
+      "-KnT9wh8aT_KEFBtk8hn" : {
+        "anhbia" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fbanner_users%2Fthiennhiendep201633.jpg?alt=media&token=43daf4e8-8d4c-4203-a355-5b121223095c",
+        "anhdaidien" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Favatar_users%2F2017-06-25T05220600Z.jpg?alt=media&token=646049b7-4bd8-414f-9309-3d877b931679",
+        "diachi_t" : "",
+        "diachi_txh" : "",
+        "email" : "",
+        "hovaten" : "Nguyen Thi Phuong Thao",
+        "loaivipham" : "",
+        "matkhau" : "12345",
+        "sdt" : "0946786789",
+        "sdt_mk" : "094678678912345",
+        "state" : "Bình thường",
+        "type" : "user"
+      },
+      "-KnTDXl53fEExGzREtx8" : {
+        "anhbia" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Fbanner_users%2Fthiennhiendep201633.jpg?alt=media&token=43daf4e8-8d4c-4203-a355-5b121223095c",
+        "anhdaidien" : "https://firebasestorage.googleapis.com/v0/b/nodejsdemo-d89c7.appspot.com/o/photos%2Favatar_users%2Fuserdefault.png?alt=media&token=3d83631f-594c-4ace-ba78-a92b75fef82c",
+        "diachi_t" : "",
+        "diachi_txh" : "",
+        "email" : "",
+        "hovaten" : "Mai Thi Anh Nguyet",
+        "loaivipham" : "",
+        "matkhau" : "12345",
+        "sdt" : "0965864898",
+        "sdt_mk" : "096586489812345",
+        "state" : "Bình thường",
+        "type" : "user"
+      },
+      "linkFacebook" : "https://www.facebook.com/kieunungocdinh"
+    }
+  }
+}
